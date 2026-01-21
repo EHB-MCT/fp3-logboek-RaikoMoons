@@ -10,10 +10,10 @@
 
 > **Activiteiten:**
 >
-> - Design aangepast
-> - Design feedback gaan vragen aan Kobe met nolan
-> - Design goed gekeurd
-> - Design verder afgewerkt
+> - Design Afgewerkt
+> - Design Feedback aan stefaan gevraagd
+> - Design in Figma gestoken
+> - Script voor user testing gedaan
 
 ---
 
@@ -21,7 +21,7 @@
 
 > **Nieuwe skills:**
 >
-> - Nolan en ik verder gewerkt aan het design met de kennis die we al hadden
+> - Hoe ik een goede script voor user testing moet maken
 
 ## 3) Wat is mijn gevoel over vandaag?
 
@@ -29,7 +29,7 @@ _Instructie:_
 
 > **Algmeeen gevoel:**
 >
-> - Het design is goed gekeurd
-> - **Tevreden**
+> -
+> - **Blij**
 
 ---
